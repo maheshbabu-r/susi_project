@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 # Path: main.py
 
 # this is for testing purposes
-df = pd.read_csv('data/2019.csv')
+df = pd.read_csv('data/2019.csv') 
 # df = df.dropna()
 # df = df.drop(columns=['Unnamed: 0'])
 # df = df.drop(columns=['Unnamed: 0.1'])
